@@ -1,0 +1,298 @@
+			Day1		
+Suggestion:-69 Price Of Share: 4.853866860736996 Money: 10000.0 Number of Shares: 0 Total Asset: 10000.0
+			Day2		
+Suggestion:69 Price Of Share: 11.088072587433377 Money: 9234.922991467098 Number of Shares: 69 Total Asset: 10000.0
+			Day3		
+Suggestion:69 Price Of Share: 9.501384931344825 Money: 8579.327431204305 Number of Shares: 138 Total Asset: 9890.51855172989
+			Day4		
+Suggestion:69 Price Of Share: 11.444782382397074 Money: 7789.637446818907 Number of Shares: 207 Total Asset: 10158.707399975101
+			Day5		
+Suggestion:69 Price Of Share: 18.726005885265693 Money: 6497.543040735574 Number of Shares: 276 Total Asset: 11665.920665068905
+			Day6		
+Suggestion:69 Price Of Share: 11.781849364551771 Money: 5684.595434581503 Number of Shares: 345 Total Asset: 9749.333465351863
+			Day7		
+Suggestion:69 Price Of Share: 17.596775692760843 Money: 4470.4179117810045 Number of Shares: 414 Total Asset: 11755.483048583994
+			Day8		
+Suggestion:69 Price Of Share: 12.134354338141122 Money: 3633.147462449267 Number of Shares: 483 Total Asset: 9494.040607771429
+			Day9		
+Suggestion:-210 Price Of Share: 20.36201530394233 Money: 7909.1706762771555 Number of Shares: 273 Total Asset: 13468.000854253412
+			Day10		
+Suggestion:-210 Price Of Share: 12.537063900792013 Money: 10541.954095443478 Number of Shares: 63 Total Asset: 11331.789121193375
+			Day11		
+Suggestion:69 Price Of Share: 15.895524698165746 Money: 9445.162891270042 Number of Shares: 132 Total Asset: 11543.37215142792
+			Day12		
+Suggestion:-69 Price Of Share: 13.004184604750522 Money: 10342.451628997827 Number of Shares: 63 Total Asset: 11161.71525909711
+			Day13		
+Suggestion:139 Price Of Share: 21.080991540642206 Money: 7412.193804848561 Number of Shares: 202 Total Asset: 11670.554096058288
+			Day14		
+Suggestion:0 Price Of Share: 13.515100411607051 Money: 7412.193804848561 Number of Shares: 202 Total Asset: 10142.244087993186
+			Day15		
+Suggestion:0 Price Of Share: 14.388160496561166 Money: 7412.193804848561 Number of Shares: 202 Total Asset: 10318.602225153916
+			Day16		
+Suggestion:0 Price Of Share: 14.010721540959963 Money: 7412.193804848561 Number of Shares: 202 Total Asset: 10242.359556122474
+			Day17		
+Suggestion:69 Price Of Share: 11.599890984998595 Money: 6611.801326883658 Number of Shares: 271 Total Asset: 9755.371783818277
+			Day18		
+Suggestion:0 Price Of Share: 14.402191074446893 Money: 6611.801326883658 Number of Shares: 271 Total Asset: 10514.795108058766
+			Day19		
+Suggestion:0 Price Of Share: 13.85579874045274 Money: 6611.801326883658 Number of Shares: 271 Total Asset: 10366.72278554635
+			Day20		
+Suggestion:0 Price Of Share: 14.441968746859994 Money: 6611.801326883658 Number of Shares: 271 Total Asset: 10525.574857282716
+			Day21		
+Suggestion:0 Price Of Share: 21.09683228837624 Money: 6611.801326883658 Number of Shares: 271 Total Asset: 12329.042877033618
+			Day22		
+Suggestion:-69 Price Of Share: 15.058276849420972 Money: 7650.8224294937045 Number of Shares: 202 Total Asset: 10692.59435307674
+			Day23		
+Suggestion:69 Price Of Share: 16.41566218323124 Money: 6518.141738850749 Number of Shares: 271 Total Asset: 10966.786190506416
+			Day24		
+Suggestion:-210 Price Of Share: 15.29186754957032 Money: 9729.433924260517 Number of Shares: 61 Total Asset: 10662.237844784306
+			Day25		
+Suggestion:-210 Price Of Share: 6.702419253032604 Money: 10138.281498695505 Number of Shares: 0 Total Asset: 10138.281498695505
+			Day26		
+Suggestion:-210 Price Of Share: 15.096424745316243 Money: 10138.281498695505 Number of Shares: 0 Total Asset: 10138.281498695505
+			Day27		
+Suggestion:-210 Price Of Share: 6.585586353339258 Money: 10138.281498695505 Number of Shares: 0 Total Asset: 10138.281498695505
+			Day28		
+Suggestion:-210 Price Of Share: 14.498521447761853 Money: 10138.281498695505 Number of Shares: 0 Total Asset: 10138.281498695505
+			Day29		
+Suggestion:69 Price Of Share: 14.240295490826202 Money: 9155.701109828497 Number of Shares: 69 Total Asset: 10138.281498695505
+			Day30		
+Suggestion:-210 Price Of Share: 13.592909698893523 Money: 10093.61187905215 Number of Shares: 0 Total Asset: 10093.61187905215
+			Day31		
+Suggestion:69 Price Of Share: 13.309797524527823 Money: 9175.235849859731 Number of Shares: 69 Total Asset: 10093.61187905215
+			Day32		
+Suggestion:-168 Price Of Share: 12.52343350624259 Money: 10039.35276179047 Number of Shares: 0 Total Asset: 10039.35276179047
+			Day33		
+Suggestion:-69 Price Of Share: 14.020791020852277 Money: 10039.35276179047 Number of Shares: 0 Total Asset: 10039.35276179047
+			Day34		
+Suggestion:69 Price Of Share: 11.4540046230127 Money: 9249.026442802593 Number of Shares: 69 Total Asset: 10039.35276179047
+			Day35		
+Suggestion:0 Price Of Share: 19.27898202172262 Money: 9249.026442802593 Number of Shares: 69 Total Asset: 10579.276202301455
+			Day36		
+Suggestion:69 Price Of Share: 10.536397989381328 Money: 8522.014981535282 Number of Shares: 138 Total Asset: 9976.037904069904
+			Day37		
+Suggestion:210 Price Of Share: 12.233084022676147 Money: 5953.067336773291 Number of Shares: 348 Total Asset: 10210.18057666459
+			Day38		
+Suggestion:69 Price Of Share: 9.88226432369496 Money: 5271.1910984383385 Number of Shares: 417 Total Asset: 9392.095321419136
+			Day39		
+Suggestion:0 Price Of Share: 21.335322473071713 Money: 5271.1910984383385 Number of Shares: 417 Total Asset: 14168.020569709242
+			Day40		
+Suggestion:69 Price Of Share: 11.775089055832392 Money: 4458.709953585903 Number of Shares: 486 Total Asset: 10181.403234720445
+			Day41		
+Suggestion:210 Price Of Share: 6.013535409981458 Money: 3195.867517489797 Number of Shares: 696 Total Asset: 7381.288162836891
+			Day42		
+Suggestion:69 Price Of Share: 11.38736641662601 Money: 2410.1392347426026 Number of Shares: 765 Total Asset: 11121.4745434615
+			Day43		
+Suggestion:-69 Price Of Share: 6.736488049997911 Money: 2874.9569101924585 Number of Shares: 696 Total Asset: 7563.552592991005
+			Day44		
+Suggestion:69 Price Of Share: 11.083610906307475 Money: 2110.187757657243 Number of Shares: 765 Total Asset: 10589.15010098246
+			Day45		
+Suggestion:-210 Price Of Share: 3.201482944186173 Money: 2782.4991759363393 Number of Shares: 555 Total Asset: 4559.322209959665
+			Day46		
+Suggestion:69 Price Of Share: 10.82300130375426 Money: 2035.7120859772954 Number of Shares: 624 Total Asset: 8789.264899519954
+			Day47		
+Suggestion:210 Price Of Share: 16.61899035556986 Money: 8.195262597772398 Number of Shares: 746 Total Asset: 12405.962067852888
+			Day48		
+Suggestion:69 Price Of Share: 10.570940143976442 Money: 8.195262597772398 Number of Shares: 746 Total Asset: 7894.116610004197
+			Day49		
+Suggestion:69 Price Of Share: 14.812095327992273 Money: 8.195262597772398 Number of Shares: 746 Total Asset: 11058.018377280006
+			Day50		
+Suggestion:69 Price Of Share: 10.317112889228667 Money: 8.195262597772398 Number of Shares: 746 Total Asset: 7704.761477962358
+			Day51		
+Suggestion:210 Price Of Share: 15.944763426996655 Money: 8.195262597772398 Number of Shares: 746 Total Asset: 11902.988779137277
+			Day52		
+Suggestion:69 Price Of Share: 10.084909433124274 Money: 8.195262597772398 Number of Shares: 746 Total Asset: 7531.53769970848
+			Day53		
+Suggestion:69 Price Of Share: 7.0037290001673735 Money: 1.1915335976050248 Number of Shares: 747 Total Asset: 5232.977096722632
+			Day54		
+Suggestion:69 Price Of Share: 9.929172257865343 Money: 1.1915335976050248 Number of Shares: 747 Total Asset: 7418.283210223016
+			Day55		
+Suggestion:69 Price Of Share: 6.358729630887915 Money: 1.1915335976050248 Number of Shares: 747 Total Asset: 4751.162567870877
+			Day56		
+Suggestion:69 Price Of Share: 9.922512285418449 Money: 1.1915335976050248 Number of Shares: 747 Total Asset: 7413.308210805186
+			Day57		
+Suggestion:0 Price Of Share: 3.425243359651674 Money: 1.1915335976050248 Number of Shares: 747 Total Asset: 2559.8483232574054
+			Day58		
+Suggestion:69 Price Of Share: 8.956416775575466 Money: 1.1915335976050248 Number of Shares: 747 Total Asset: 6691.634864952478
+			Day59		
+Suggestion:210 Price Of Share: 17.17686319128277 Money: 1.1915335976050248 Number of Shares: 747 Total Asset: 12832.308337485834
+			Day60		
+Suggestion:69 Price Of Share: 8.86059111464207 Money: 1.1915335976050248 Number of Shares: 747 Total Asset: 6620.05309623523
+			Day61		
+Suggestion:210 Price Of Share: 13.800885779660772 Money: 1.1915335976050248 Number of Shares: 747 Total Asset: 10310.453211004202
+			Day62		
+Suggestion:69 Price Of Share: 9.174726950753765 Money: 1.1915335976050248 Number of Shares: 747 Total Asset: 6854.712565810667
+			Day63		
+Suggestion:0 Price Of Share: 7.1144645296992355 Money: 1.1915335976050248 Number of Shares: 747 Total Asset: 5315.696537282934
+			Day64		
+Suggestion:69 Price Of Share: 9.874241542605384 Money: 1.1915335976050248 Number of Shares: 747 Total Asset: 7377.2499659238265
+			Day65		
+Suggestion:210 Price Of Share: 10.500810728315123 Money: 1.1915335976050248 Number of Shares: 747 Total Asset: 7845.297147649002
+			Day66		
+Suggestion:69 Price Of Share: 10.86603135495574 Money: 1.1915335976050248 Number of Shares: 747 Total Asset: 8118.116955749543
+			Day67		
+Suggestion:-210 Price Of Share: 5.141037729452821 Money: 1080.8094567826975 Number of Shares: 537 Total Asset: 3841.546717498862
+			Day68		
+Suggestion:69 Price Of Share: 12.004633310973881 Money: 252.48975832549968 Number of Shares: 606 Total Asset: 7527.297544775672
+			Day69		
+Suggestion:210 Price Of Share: 10.095762176406746 Money: 0.09570391533102907 Number of Shares: 631 Total Asset: 6370.521637227987
+			Day70		
+Suggestion:-210 Price Of Share: 13.119816235364523 Money: 2755.2571133418805 Number of Shares: 421 Total Asset: 8278.699748430345
+			Day71		
+Suggestion:-210 Price Of Share: 10.33735289518087 Money: 4926.101221329864 Number of Shares: 211 Total Asset: 7107.282682213027
+			Day72		
+Suggestion:-210 Price Of Share: 14.049381135832537 Money: 7876.471259854696 Number of Shares: 1 Total Asset: 7890.520640990529
+			Day73		
+Suggestion:210 Price Of Share: 11.389740915446833 Money: 5484.625667610861 Number of Shares: 211 Total Asset: 7887.861000770143
+			Day74		
+Suggestion:-140 Price Of Share: 14.669712115454729 Money: 7538.385363774522 Number of Shares: 71 Total Asset: 8579.934923971809
+			Day75		
+Suggestion:203 Price Of Share: 11.436103541442874 Money: 5216.856344861619 Number of Shares: 274 Total Asset: 8350.348715216966
+			Day76		
+Suggestion:-21 Price Of Share: 14.91721550524636 Money: 5530.117870471792 Number of Shares: 253 Total Asset: 9304.173393299121
+			Day77		
+Suggestion:0 Price Of Share: 4.78804370205485 Money: 5530.117870471792 Number of Shares: 253 Total Asset: 6741.492927091669
+			Day78		
+Suggestion:0 Price Of Share: 13.404523877048263 Money: 5530.117870471792 Number of Shares: 253 Total Asset: 8921.462411365002
+			Day79		
+Suggestion:0 Price Of Share: 6.073825748850567 Money: 5530.117870471792 Number of Shares: 253 Total Asset: 7066.795784930986
+			Day80		
+Suggestion:0 Price Of Share: 13.620448085380227 Money: 5530.117870471792 Number of Shares: 253 Total Asset: 8976.091236072989
+			Day81		
+Suggestion:0 Price Of Share: 7.7542223458698984 Money: 5530.117870471792 Number of Shares: 253 Total Asset: 7491.936123976877
+			Day82		
+Suggestion:0 Price Of Share: 13.705529285965591 Money: 5530.117870471792 Number of Shares: 253 Total Asset: 8997.616779821086
+			Day83		
+Suggestion:69 Price Of Share: 22.395415642784478 Money: 3984.834191119663 Number of Shares: 322 Total Asset: 11196.158028096266
+			Day84		
+Suggestion:-7 Price Of Share: 13.715756917382052 Money: 4080.844489541337 Number of Shares: 315 Total Asset: 8401.307918516684
+			Day85		
+Suggestion:-69 Price Of Share: 18.950598035744356 Money: 5388.435754007698 Number of Shares: 246 Total Asset: 10050.28287080081
+			Day86		
+Suggestion:-76 Price Of Share: 13.693643966269045 Money: 6429.152695444145 Number of Shares: 170 Total Asset: 8757.072169709883
+			Day87		
+Suggestion:-210 Price Of Share: 21.990783253935 Money: 10167.585848613095 Number of Shares: 0 Total Asset: 10167.585848613095
+			Day88		
+Suggestion:-210 Price Of Share: 13.653214416519456 Money: 10167.585848613095 Number of Shares: 0 Total Asset: 10167.585848613095
+			Day89		
+Suggestion:69 Price Of Share: 8.051255966384689 Money: 9612.04918693255 Number of Shares: 69 Total Asset: 10167.585848613095
+			Day90		
+Suggestion:-210 Price Of Share: 13.57564113943083 Money: 10548.768425553279 Number of Shares: 0 Total Asset: 10548.768425553279
+			Day91		
+Suggestion:-210 Price Of Share: 9.569621666201876 Money: 10548.768425553279 Number of Shares: 0 Total Asset: 10548.768425553279
+			Day92		
+Suggestion:-210 Price Of Share: 13.41672557808569 Money: 10548.768425553279 Number of Shares: 0 Total Asset: 10548.768425553279
+			Day93		
+Suggestion:-210 Price Of Share: 13.598184137546271 Money: 10548.768425553279 Number of Shares: 0 Total Asset: 10548.768425553279
+			Day94		
+Suggestion:-210 Price Of Share: 13.124055554275431 Money: 10548.768425553279 Number of Shares: 0 Total Asset: 10548.768425553279
+			Day95		
+Suggestion:62 Price Of Share: 5.679986241288164 Money: 10196.609278593412 Number of Shares: 62 Total Asset: 10548.768425553279
+			Day96		
+Suggestion:-69 Price Of Share: 14.782760528066124 Money: 11113.140431333512 Number of Shares: 0 Total Asset: 11113.140431333512
+			Day97		
+Suggestion:-14 Price Of Share: 13.249908437049463 Money: 11113.140431333512 Number of Shares: 0 Total Asset: 11113.140431333512
+			Day98		
+Suggestion:0 Price Of Share: 14.374310348452724 Money: 11113.140431333512 Number of Shares: 0 Total Asset: 11113.140431333512
+			Day99		
+Suggestion:0 Price Of Share: 19.39050771947906 Money: 11113.140431333512 Number of Shares: 0 Total Asset: 11113.140431333512
+			Day100		
+Suggestion:0 Price Of Share: 13.618259588435926 Money: 11113.140431333512 Number of Shares: 0 Total Asset: 11113.140431333512
+			Day101		
+Suggestion:62 Price Of Share: 19.077563120269048 Money: 9930.33151787683 Number of Shares: 62 Total Asset: 11113.140431333512
+			Day102		
+Suggestion:0 Price Of Share: 12.600968949926859 Money: 9930.33151787683 Number of Shares: 62 Total Asset: 10711.591592772294
+			Day103		
+Suggestion:69 Price Of Share: 18.951930481572496 Money: 8622.648314648328 Number of Shares: 131 Total Asset: 11105.351207734326
+			Day104		
+Suggestion:69 Price Of Share: 11.462123493422723 Money: 7831.76179360216 Number of Shares: 200 Total Asset: 10124.186492286704
+			Day105		
+Suggestion:-84 Price Of Share: 7.924361853465575 Money: 8497.408189293268 Number of Shares: 116 Total Asset: 9416.634164295276
+			Day106		
+Suggestion:69 Price Of Share: 10.369739874819583 Money: 7781.896137930717 Number of Shares: 185 Total Asset: 9700.29801477234
+			Day107		
+Suggestion:-105 Price Of Share: 4.607718578945839 Money: 8265.70658872003 Number of Shares: 80 Total Asset: 8634.324075035696
+			Day108		
+Suggestion:69 Price Of Share: 9.48814137605974 Money: 7611.024833771908 Number of Shares: 149 Total Asset: 9024.757898804808
+			Day109		
+Suggestion:98 Price Of Share: 10.311521016761201 Money: 6600.49577412931 Number of Shares: 247 Total Asset: 9147.441465269327
+			Day110		
+Suggestion:69 Price Of Share: 8.946140749516454 Money: 5983.212062412675 Number of Shares: 316 Total Asset: 8810.192539259875
+			Day111		
+Suggestion:-210 Price Of Share: 13.602666018785719 Money: 8839.771926357676 Number of Shares: 106 Total Asset: 10281.654524348964
+			Day112		
+Suggestion:69 Price Of Share: 8.812684190671549 Money: 8231.69671720134 Number of Shares: 175 Total Asset: 9773.91645056886
+			Day113		
+Suggestion:-210 Price Of Share: 2.1400645279366888 Money: 8606.20800959026 Number of Shares: 0 Total Asset: 8606.20800959026
+			Day114		
+Suggestion:69 Price Of Share: 9.085438843941585 Money: 7979.312729358291 Number of Shares: 69 Total Asset: 8606.20800959026
+			Day115		
+Suggestion:62 Price Of Share: 6.1597076504557595 Money: 7597.410855030034 Number of Shares: 131 Total Asset: 8404.332557239739
+			Day116		
+Suggestion:69 Price Of Share: 9.800279977506408 Money: 6921.191536582092 Number of Shares: 200 Total Asset: 8881.247532083375
+			Day117		
+Suggestion:69 Price Of Share: 8.731946049344577 Money: 6318.687259177316 Number of Shares: 269 Total Asset: 8667.580746451007
+			Day118		
+Suggestion:69 Price Of Share: 9.912371871607357 Money: 5634.7336000364085 Number of Shares: 338 Total Asset: 8985.115292639695
+			Day119		
+Suggestion:69 Price Of Share: 13.178877132956728 Money: 4725.391077862394 Number of Shares: 407 Total Asset: 10089.194070975784
+			Day120		
+Suggestion:69 Price Of Share: 10.155171204022995 Money: 4024.6842647848075 Number of Shares: 476 Total Asset: 8858.545757899754
+			Day121		
+Suggestion:0 Price Of Share: 14.709462016729683 Money: 4024.6842647848075 Number of Shares: 476 Total Asset: 11026.388184748137
+			Day122		
+Suggestion:69 Price Of Share: 10.454460000740287 Money: 3303.3265247337276 Number of Shares: 545 Total Asset: 9001.007225137184
+			Day123		
+Suggestion:69 Price Of Share: 4.078606275575934 Money: 3021.902691718988 Number of Shares: 614 Total Asset: 5526.166944922612
+			Day124		
+Suggestion:69 Price Of Share: 10.75910488091156 Money: 2279.5244549360905 Number of Shares: 683 Total Asset: 9627.993088598687
+			Day125		
+Suggestion:69 Price Of Share: 15.445339057253193 Money: 1213.79605998562 Number of Shares: 752 Total Asset: 12828.69103104002
+			Day126		
+Suggestion:69 Price Of Share: 11.051898682828401 Money: 451.21505087046046 Number of Shares: 821 Total Asset: 9524.823869472577
+			Day127		
+Suggestion:-69 Price Of Share: 17.208899378386704 Money: 1638.629107979143 Number of Shares: 752 Total Asset: 14579.721440525944
+			Day128		
+Suggestion:69 Price Of Share: 11.348486741233879 Money: 855.5835228340054 Number of Shares: 821 Total Asset: 10172.69113738702
+			Day129		
+Suggestion:-210 Price Of Share: 9.16165422843979 Money: 2779.530910806361 Number of Shares: 611 Total Asset: 8377.301644383073
+			Day130		
+Suggestion:69 Price Of Share: 11.685149437406803 Money: 1973.2555996252918 Number of Shares: 680 Total Asset: 9919.157217061918
+			Day131		
+Suggestion:210 Price Of Share: 9.49727550648405 Money: 7.319569783093584 Number of Shares: 887 Total Asset: 8431.402944034446
+			Day132		
+Suggestion:69 Price Of Share: 12.099325017655072 Money: 7.319569783093584 Number of Shares: 887 Total Asset: 10739.420860443144
+			Day133		
+Suggestion:-210 Price Of Share: 9.912831410598876 Money: 2089.0141660088575 Number of Shares: 677 Total Asset: 8800.001030984296
+			Day134		
+Suggestion:69 Price Of Share: 10.222063529062588 Money: 1383.691782503539 Number of Shares: 746 Total Asset: 9009.35117518423
+			Day135		
+Suggestion:210 Price Of Share: 19.918774083931375 Money: 9.296370712273983 Number of Shares: 815 Total Asset: 16243.097249116345
+			Day136		
+Suggestion:69 Price Of Share: 10.982506548303135 Money: 9.296370712273983 Number of Shares: 815 Total Asset: 8960.03920757933
+			Day137		
+Suggestion:-210 Price Of Share: 17.734752583192723 Money: 3733.594413182746 Number of Shares: 605 Total Asset: 14463.119726014344
+			Day138		
+Suggestion:69 Price Of Share: 11.960775299401046 Money: 2908.3009175240736 Number of Shares: 674 Total Asset: 10969.863469320378
+			Day139		
+Suggestion:210 Price Of Share: 9.029809490914378 Money: 1012.0409244320542 Number of Shares: 884 Total Asset: 8994.392514400364
+			Day140		
+Suggestion:0 Price Of Share: 13.030426806048434 Money: 1012.0409244320542 Number of Shares: 884 Total Asset: 12530.93822097887
+			Day141		
+Suggestion:0 Price Of Share: 20.07005573819211 Money: 1012.0409244320542 Number of Shares: 884 Total Asset: 18753.97019699388
+			Day142		
+Suggestion:0 Price Of Share: 14.034165560405679 Money: 1012.0409244320542 Number of Shares: 884 Total Asset: 13418.243279830675
+			Day143		
+Suggestion:69 Price Of Share: 14.09866127615049 Money: 39.2332963776704 Number of Shares: 953 Total Asset: 13475.257492549088
+			Day144		
+Suggestion:0 Price Of Share: 14.813744493905062 Money: 39.2332963776704 Number of Shares: 953 Total Asset: 14156.731799069194
+			Day145		
+Suggestion:0 Price Of Share: 20.423633585257278 Money: 39.2332963776704 Number of Shares: 953 Total Asset: 19502.956103127857
+			Day146		
+Suggestion:0 Price Of Share: 15.241722913966665 Money: 39.2332963776704 Number of Shares: 953 Total Asset: 14564.595233387901
+			Day147		
+Suggestion:69 Price Of Share: 8.993023474045115 Money: 3.2612024814899385 Number of Shares: 957 Total Asset: 8609.584667142664
+			Day148		
+Suggestion:-69 Price Of Share: 15.247707976242907 Money: 1055.3530528422507 Number of Shares: 888 Total Asset: 14595.317735745952
+			Day149		
+Suggestion:69 Price Of Share: 20.33342661929799 Money: 18.348295258053213 Number of Shares: 939 Total Asset: 19111.435890778863
